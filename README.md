@@ -46,7 +46,7 @@ As a student there is a free version, you must enter your student email address 
 
 Watson came up with a few paths for me to track down and a few questions that I could ask about my data set.
 
-![IBM Watson Platform]() 
+![IBM Watson Platform](https://github.com/amblount/fitbit-data-set/blob/master/ibm-watson.png) 
 
 I also starting watching the introductory videos for the Edx course on big data in education and the first video gave examples of how to use a specific technology that was new for me.
 
