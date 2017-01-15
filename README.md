@@ -5,6 +5,8 @@ Given a data set the attached CSV file, I am going to demonstrate my understandi
 I am learning data science for the first time and so I am using online resources to learn about the concepts.
 
 ### Courses
+[Unlock Value in Massive Data Sets](https://www.coursera.org/specializations/big-data) - Coursera - UC San Diego
+
 [Introduction to data science](https://www.youtube.com/watch?v=kUZ6mH1_v0U&list=PLMiChZq0IHh1A5mz4o0T_vWXJnsi-7EY-) - University of Washington
 
 [Big Data in Education](https://courses.edx.org/courses/course-v1:TeachersCollegeX+BDE1x+2T2015/courseware/70778dec3400435b9e46363767bdfa86/bd31de33e9544045ac7b1aa21cc627d6/) - EDx
